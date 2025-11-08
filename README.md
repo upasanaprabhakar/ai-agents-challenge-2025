@@ -1,5 +1,9 @@
 # 🚀 5-Day AI Agents Intensive | My Learning Journey
 
+[![Challenge Dates](https://img.shields.io/badge/Challenge-Nov%2010--15%202025-blue)](https://www.kaggle.com/learn-guide/5-day-agents)
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 > Building intelligent AI agents with Google Gemini - Nov 10-15, 2025
 
 Hey! This is my personal workspace for Google and Kaggle's AI Agents Challenge. I'm documenting everything I learn about building production-ready AI agents here. Feel free to follow along!
