@@ -4,7 +4,7 @@
 
 Hey! This is my personal workspace for Google and Kaggle's AI Agents Challenge. I'm documenting everything I learn about building production-ready AI agents here. Feel free to follow along!
 
----
+
 
 ## What's This About?
 
@@ -14,7 +14,7 @@ I'm participating in a 5-day intensive where I'll learn to build AI agents from 
 **Where:** Kaggle platform with live YouTube sessions  
 **What:** Hands-on coding with Google's Gemini API
 
----
+
 
 ## What I'm Learning
 
@@ -26,7 +26,7 @@ Here's the breakdown of what I'll be working through:
 **Day 4 (Nov 13)** - Testing, evaluation, and making things scale  
 **Day 5 (Nov 14-15)** - Building my final capstone project  
 
----
+
 
 ## Repository Layout
 
@@ -84,7 +84,7 @@ Here's how I'm organizing everything:
     └── diagrams/
 ```
 
----
+
 
 ## My Daily Workflow
 
@@ -99,7 +99,7 @@ This is how I'm approaching each session:
 
 Simple but keeps me organized!
 
----
+
 
 ## Progress Tracker
 
@@ -133,7 +133,7 @@ Status: **Waiting to start**
 🔲 Project completed  
 Status: **Waiting to start**
 
----
+
 
 ## Getting Set Up
 
@@ -159,7 +159,7 @@ echo "GOOGLE_API_KEY=your_key_here" > .env
 
 Check `config/setup-guide.md` for detailed instructions.
 
----
+
 
 ## Important Links
 
@@ -170,13 +170,13 @@ Check `config/setup-guide.md` for detailed instructions.
 
 All links are saved in `reference/links.md`
 
----
+
 
 ## Security Note
 
 ⚠️ I'm being careful not to commit any API keys or secrets. Everything sensitive goes in `.env` files which are gitignored. If you're following along, make sure you do the same!
 
----
+
 
 ## What I'm Building
 
@@ -188,7 +188,7 @@ Beyond the daily lessons, I'm planning to experiment with:
 
 I'll keep these in the `experiments/` folder as I build them out.
 
----
+
 
 ## My Goals
 
@@ -198,7 +198,7 @@ I'll keep these in the `experiments/` folder as I build them out.
 - [ ] Create at least one personal project
 - [ ] Share what I learn with others
 
----
+
 
 ## Want to Follow Along?
 
@@ -207,7 +207,7 @@ I'm keeping detailed notes as I go. Check out:
 - `insights.md` for interesting things I discover
 - Individual day folders for code and experiments
 
----
+
 
 ## Tools I'm Using
 
@@ -217,7 +217,7 @@ I'm keeping detailed notes as I go. Check out:
 - **API:** Google Gemini
 - **Notes:** Markdown
 
----
+
 
 ## A Few Notes
 
@@ -232,7 +232,7 @@ Also, I'm documenting everything as I learn it, so my understanding (and this re
 If you're doing this challenge too, let's connect!
 
 - GitHub: [@upasanaprabhakar](https://github.com/upasanaprabhakar)
-- Kaggle: [Your Profile]
+- Kaggle: [My Kaggle Profile](https://www.kaggle.com/upasanaprabhakar)
 
 ---
 
