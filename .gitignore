@@ -1,0 +1,110 @@
+# API Keys and Secrets
+.env
+.env.local
+.env.*.local
+*.key
+secrets.json
+config/secrets/
+credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+.jupyter/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Cache
+*.cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Data files (if large datasets)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.csv
+*.parquet
+*.db
+*.sqlite
+
+# Model files (if large)
+models/*.h5
+models/*.pkl
+models/*.pt
+models/*.pth
+*.ckpt
+checkpoints/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+.temp/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Personal notes 
+private_notes/
+scratch/
+drafts/

@@ -1,0 +1,43 @@
+# Main stuff you'll need
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# For Jupyter notebooks
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Making charts and graphs
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Web requests
+requests>=2.31.0
+httpx>=0.24.0
+
+# Making terminal output look nice
+tqdm>=4.65.0
+rich>=13.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Code formatting 
+black>=23.0.0
+
+# Uncomment these if you end up needing them:
+
+# For working with PDFs
+# pypdf>=3.15.0
+
+# For vector databases 
+# chromadb>=0.4.0
+
+# For more advanced LLM stuff
+# langchain>=0.1.0
+# langchain-google-genai>=0.0.6
