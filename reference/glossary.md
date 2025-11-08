@@ -2,7 +2,7 @@
 
 Words and concepts I'm learning. Adding to this as I go.
 
----
+
 
 ## Basic Stuff I Already Know
 
@@ -21,7 +21,7 @@ The text you give to an AI to tell it what to do
 **Token**  
 Small chunks of text the AI processes. Usually ~4 characters per token
 
----
+
 
 ## Agent-Specific Terms
 
@@ -43,7 +43,7 @@ Small chunks of text the AI processes. Usually ~4 characters per token
 **Context window**  
 *need to understand this better*
 
----
+
 
 ## Technical Terms
 
@@ -59,7 +59,7 @@ Version control. Tracking changes to code.
 **Environment variables**  
 Secret values (like API keys) stored outside code
 
----
+
 
 ## Will Add During Challenge
 
@@ -83,7 +83,7 @@ Secret values (like API keys) stored outside code
 - 
 - 
 
----
+
 
 ## Acronyms I Keep Seeing
 
@@ -93,6 +93,6 @@ Secret values (like API keys) stored outside code
 **SDK** - Software Development Kit  
 **REST** - Representational State Transfer (API type)  
 
----
+
 
 Last updated: Nov 8, 2025

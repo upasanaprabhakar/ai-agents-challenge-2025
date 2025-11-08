@@ -22,7 +22,7 @@ Getting everything ready for the challenge.
 5. **Google Gemini API key**
    - Get yours at: https://makersuite.google.com/app/apikey
 
----
+
 
 ## Step-by-Step Setup
 
@@ -82,7 +82,7 @@ print(response.text)
 
 If you see a response, you're all set! 🎉
 
----
+
 
 ## Kaggle Setup
 
@@ -102,7 +102,7 @@ user_secrets = UserSecretsClient()
 api_key = user_secrets.get_secret("GOOGLE_API_KEY")
 ```
 
----
+
 
 ## Troubleshooting
 
@@ -123,7 +123,7 @@ api_key = user_secrets.get_secret("GOOGLE_API_KEY")
 - Install it explicitly: `pip install jupyter notebook`
 - Try: `jupyter notebook` or `python -m notebook`
 
----
+
 
 ## Quick Commands Reference
 
@@ -148,7 +148,7 @@ pip list
 deactivate
 ```
 
----
+
 
 ## Tips
 
@@ -157,6 +157,6 @@ deactivate
 - If you're on Kaggle, you don't need the local setup - just use their notebooks directly
 - Save your work frequently and commit to Git!
 
----
+
 
 Need help? Check the Kaggle Discord or open an issue on this repo.

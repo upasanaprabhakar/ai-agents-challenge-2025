@@ -229,7 +229,7 @@ This is my learning journey, so the code might not be perfect. I'm focusing on u
 
 Also, I'm documenting everything as I learn it, so my understanding (and this repo) will evolve throughout the week.
 
----
+
 
 ## Connect
 
@@ -238,18 +238,18 @@ If you're doing this challenge too, let's connect!
 - GitHub: [@upasanaprabhakar](https://github.com/upasanaprabhakar)
 - Kaggle: [My Kaggle Profile](https://www.kaggle.com/upasanaprabhakar)
 
----
+
 
 ## License
 
 MIT License - Use this however you want!
 
----
+
 
 **Started:** November 8, 2025  
 **Challenge Begins:** November 10, 2025  
 **Status:** Ready to go 🎯
 
----
+
 
 *Let's build some intelligent agents!* 🤖

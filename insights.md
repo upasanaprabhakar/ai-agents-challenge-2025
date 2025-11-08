@@ -2,7 +2,7 @@
 
 Just jotting down stuff that clicks as I go through this challenge.
 
----
+
 
 ## Main Concepts
 
@@ -57,7 +57,7 @@ What matters:
 My approach:
 
 
----
+
 
 ## Lightbulb Moments
 
@@ -70,7 +70,7 @@ What clicked:
 Why it matters:
 
 
----
+
 
 ### Day 2
 > another aha moment
@@ -81,7 +81,7 @@ What clicked:
 Why it matters:
 
 
----
+
 
 ### Day 3
 > 
@@ -92,7 +92,7 @@ What clicked:
 Why it matters:
 
 
----
+
 
 ### Day 4
 > 
@@ -103,7 +103,7 @@ What clicked:
 Why it matters:
 
 
----
+
 
 ### Day 5
 > 
@@ -114,7 +114,7 @@ What clicked:
 Why it matters:
 
 
----
+
 
 ## Code stuff I'm reusing
 
@@ -126,7 +126,7 @@ Why it matters:
 When to use:
 
 
----
+
 
 ### Multi-agent setup
 ```python
@@ -136,7 +136,7 @@ When to use:
 When to use:
 
 
----
+
 
 ### Agent with tools
 ```python
@@ -146,7 +146,7 @@ When to use:
 When to use:
 
 
----
+
 
 ## Mistakes (learning the hard way)
 
@@ -165,7 +165,7 @@ Better way:
 # 
 ```
 
----
+
 
 ### Mistake: _________
 What went wrong:
@@ -182,7 +182,7 @@ Better way:
 # 
 ```
 
----
+
 
 ## What's working
 
@@ -196,7 +196,7 @@ Example:
 # 
 ```
 
----
+
 
 ### 2. _________
 What: 
@@ -208,7 +208,7 @@ Example:
 # 
 ```
 
----
+
 
 ## Good resources
 
@@ -225,7 +225,7 @@ Example:
 ### Example code
 1. 
 
----
+
 
 ## Project ideas
 
@@ -238,7 +238,7 @@ Need to learn:
 
 Plan:
 
----
+
 
 ### Idea 2: _________
 What it does:
@@ -249,7 +249,7 @@ Need to learn:
 
 Plan:
 
----
+
 
 ## Community stuff
 
@@ -261,7 +261,7 @@ Points made:
 
 What I think:
 
----
+
 
 Topic:
 
@@ -269,7 +269,7 @@ Points made:
 
 What I think:
 
----
+
 
 ## Questions to figure out later
 
@@ -279,7 +279,7 @@ What I think:
 4. 
 5. 
 
----
+
 
 ## How my thinking evolved
 
@@ -301,7 +301,7 @@ Current understanding:
 Main shift:
 
 
----
+
 
 ## What's next
 
@@ -317,6 +317,6 @@ Main shift:
 - 
 - 
 
----
+
 
 **Last update**: ___

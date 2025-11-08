@@ -2,7 +2,7 @@
 
 Quick notes and reflections from each day of the challenge.
 
----
+
 
 ## Day 1 - Sunday, Nov 10, 2025
 
@@ -37,7 +37,7 @@ Quick notes and reflections from each day of the challenge.
 ### Tomorrow's Focus
 *What do I want to pay attention to?*
 
----
+
 
 ## Day 2 - Monday, Nov 11, 2025
 
@@ -72,7 +72,7 @@ Quick notes and reflections from each day of the challenge.
 ### Tomorrow's Focus
 *What do I want to pay attention to?*
 
----
+
 
 ## Day 3 - Tuesday, Nov 12, 2025
 
@@ -107,7 +107,7 @@ Quick notes and reflections from each day of the challenge.
 ### Tomorrow's Focus
 *What do I want to pay attention to?*
 
----
+
 
 ## Day 4 - Wednesday, Nov 13, 2025
 
@@ -142,7 +142,7 @@ Quick notes and reflections from each day of the challenge.
 ### Tomorrow's Focus
 *What do I want to pay attention to?*
 
----
+
 
 ## Day 5 - Thursday-Friday, Nov 14-15, 2025
 
@@ -169,7 +169,7 @@ Quick notes and reflections from each day of the challenge.
 ### What's Next?
 *How could you improve or extend this?*
 
----
+
 
 ## Week Wrap-Up
 
@@ -201,7 +201,7 @@ Day 5: ___ hours
 ### Random Thoughts
 *Anything else worth noting*
 
----
+
 
 **Log Started:** November 10, 2025  
 **Last Updated:** ___

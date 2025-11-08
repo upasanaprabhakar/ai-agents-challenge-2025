@@ -2,7 +2,7 @@
 
 Quick access to everything I need for the challenge.
 
----
+
 
 ## Course Stuff
 
@@ -18,7 +18,7 @@ https://kaggle.com/discord/confirmation
 **My Kaggle profile:**  
 [add your link here]
 
----
+
 
 ## Gemini API
 
@@ -34,7 +34,7 @@ https://ai.google.dev/pricing
 **Python SDK docs:**  
 https://ai.google.dev/tutorials/python_quickstart
 
----
+
 
 ## Learning Resources
 
@@ -44,7 +44,7 @@ https://github.com/google-gemini/cookbook
 **Prompt engineering guide:**  
 https://ai.google.dev/docs/prompt_best_practices
 
----
+
 
 ## Tools & Stuff
 
@@ -54,7 +54,7 @@ https://www.kaggle.com/code
 **My GitHub:**  
 [your repo link]
 
----
+
 
 ## Will add more as I find them
 
@@ -62,6 +62,6 @@ https://www.kaggle.com/code
 - 
 - 
 
----
+
 
 Last updated: Nov 8, 2025
