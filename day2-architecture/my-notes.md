@@ -247,7 +247,7 @@ Based on today's learning about agent tools and MCP:
 
 ## ⏱️ Time Spent
 
-- Watching recording: 2 hours
+- Live lesson: 2 hours
 - Codelab 2a (MCP Integration): 1.5 hours
 - Codelab 2b (Multi-Agent Orchestration): 1.5 hours
 - Architecture design & experimentation: 1 hour
